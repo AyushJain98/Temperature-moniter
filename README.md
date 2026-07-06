@@ -16,4 +16,4 @@ Built as part of my Smart Manufacturing engineering studies at IIITDM Jabalpur.
 - Random (sensor simulation)
 
 ## Inspection Report
-![Temperature Report](temperature_report.png)
+![Temperature_log.csv](Temperature_log.png)
